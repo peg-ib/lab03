@@ -56,7 +56,7 @@ $ git add .
 $ git commit -m "Создание библиотеки formatter_exlib"
 $ git push origin master
 
-##Задание 3
+## Задание 3
 ## Cmakelists.txt 
 ```
 cmake_minimum_required(VERSION 3.4) #solver_lib
