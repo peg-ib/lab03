@@ -1,0 +1,4 @@
+/home/peg/peg-ib/workspace/projects/lab03/formatter_lib/CMakeFiles/rebuild_cache.dir
+/home/peg/peg-ib/workspace/projects/lab03/formatter_lib/CMakeFiles/edit_cache.dir
+/home/peg/peg-ib/workspace/projects/lab03/formatter_lib/CMakeFiles/formatter.dir
+/home/peg/peg-ib/workspace/projects/lab03/formatter_lib/CMakeFiles/formatter_lib1.dir
